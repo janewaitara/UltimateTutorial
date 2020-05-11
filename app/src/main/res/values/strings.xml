@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ultimate Tutorial</string>
+    <string name="btn_clr">Press to clear</string>
+    <string name="btn_toast">Press to Toast</string>
+    <string name="btn_clear_hint">This Button will clear the toast in the above Text field</string>
+    <string name="btn_toast_hint">This Button will Toast the toast in the above Text field</string>
+</resources>
