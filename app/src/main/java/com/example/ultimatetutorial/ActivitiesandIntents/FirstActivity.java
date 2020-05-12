@@ -1,9 +1,11 @@
-package com.example.ultimatetutorial;
+package com.example.ultimatetutorial.ActivitiesandIntents;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.util.Log;
+
+import com.example.ultimatetutorial.R;
 
 public class FirstActivity extends AppCompatActivity {
     private static final String  TAG = FirstActivity.class.toString();
