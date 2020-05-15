@@ -4,4 +4,15 @@
     <string name="btn_toast">Press to Toast</string>
     <string name="btn_clear_hint">This Button will clear the toast in the above Text field</string>
     <string name="btn_toast_hint">This Button will Toast the toast in the above Text field</string>
+    <string-array name="list_objects_solar_system">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
 </resources>
